@@ -1,0 +1,66 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / MonoDevelop generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity Asset Database
+/[Aa]ssets/AssetStoreTools*
+
+# Auto-generated files for Unity
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Unity VS Code Plugin
+.vscode/
+
+# Rider project files
+.idea/
+*.iml
+*.ipr
+
+# Gradle cache (for Unity Android builds)
+/.gradle/
+
+# Unity Cloud Build
+/[Cc]loud/
+*.stackdump
+
+# Crash logs
+*.crash
+*.error
+
+# Meta files should always be included
+!*.meta
+
+# Hidden files and folders (e.g., Mac .DS_Store)
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# OS-generated files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*.lock
+Packages

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="plastic_box" size="100.000000 100.298508" />
+    <ImageTarget name="can_box" size="100.000000 99.547508" />
+    <ImageTarget name="paper_box" size="100.000000 98.086121" />
+    <ImageTarget name="almi" size="100.000000 86.100388" />
+    <ImageTarget name="steal" size="100.000000 98.260872" />
+    <ImageTarget name="paper" size="100.000000 99.300697" />
+    <ImageTarget name="plastic" size="100.000000 90.551178" />
+  </Tracking>
+</QCARConfig>
